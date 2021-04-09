@@ -1,0 +1,5 @@
+### Project ###
+dist
+test-dist
+
+node_modules
